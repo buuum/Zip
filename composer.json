@@ -1,0 +1,27 @@
+{
+  "name": "buuum/zip",
+  "type": "library",
+  "description": "Library for PHP ZipArchive functions",
+  "homepage": "https://github.com/buuum/Zip",
+  "keywords": [
+    "ftp"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alfons Martinez",
+      "email": "alfonsmartinezparra@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Buuum\\Zip\\": "src/Zip"
+    }
+  },
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  }
+}
