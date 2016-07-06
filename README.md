@@ -9,6 +9,7 @@ Library for PHP ZipArchive functions
 ### System Requirements
 
 You need PHP >= 5.5.0 to use Buuum\Zip but the latest stable version of PHP is recommended.
+You need [PHP ZipArchive](http://php.net/manual/en/class.ziparchive.php).
 
 ### Composer
 
